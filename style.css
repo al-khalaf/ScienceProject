@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    box-sizing: 0;
+    padding: 0;
+    font-family: 'Commissioner', sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.science{
+    font-size: 3em;
+}
+
+.span{
+    margin-left: 10px;
+}
+
+.red{
+    color: red;
+}                                                   
+
+.title{
+    margin-left: 20px;
+}
+
+nav{
+    background-color: white;
+    margin: 0;
+    height: 5em;
+}
+
+#name{
+    position: absolute;
+    left: 85%;
+    top: 2%;
+    font-size: 1.5em;
+    width: 8em;
+    border: 1px solid rgb(221, 162, 35);
+    padding: 5px;
+}
+
+.page-view{
+    position: absolute;
+    top: 20%;
+    margin-left: 10em;
+}
+
+.header{
+    font-size: 4em; 
+}
+
+.text{
+    font-size: 25px;
+}
+
+.margin-top{
+    margin-top: 10px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+#read-more{
+    background-color: #ff4444;
+    margin-left: 35px;
+    position: absolute;
+    top: 105%;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+#picture{
+    left: 53%;
+    position: absolute;
+    top: 50%;
+    width: 50em;
+    z-index: -1;
+}
+
+.problem{
+    font-size: 3em;
+    color: black;
+}
+
+.content{
+    margin: auto;
+    width: 50em;
+}
+
+.center-align{
+    text-align: center;
+}
+
+.card{
+    width: 20em;
+    height: 30em;
+    background-color: #988686;
+    margin-left: 10em;
+    text-align: justify;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 110em;
+    margin-top: 3em;
+}
+
+.margin-auto{
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.container{
+    width: 83.3em;
+    background-color: green;
+    margin-left: 14.5em;
+    margin-top: 2em;
+    background-color: #988686;
+    border-radius: 5px;
+    padding: 2em;
+    margin-bottom: 3em;
+    height: 60em;
+}
+
+.pedia{
+    margin-top: 3em;
+    color: blue;
+}
+
+.blue-text{
+    color: blue;
+    text-decoration: underline;
+}
+
+#href:visited{
+    color: blue;
+    text-decoration: underline;
+}
+
+li{
+    margin-top: 2em;
+}
+
+.solution-card{
+    background-color: #d2b8b8;
+    width: 70%;
+    margin: auto;
+    height: 5em;
+    border-radius: 5px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+iframe{
+    width: 100%;
+    height: 68%;
+    /* margin-top: 4em; */
+    border-radius: 5px;
+}
+
+.title{
+    font-size: 2em;
+}
